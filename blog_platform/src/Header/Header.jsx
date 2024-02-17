@@ -10,7 +10,7 @@ const Header = () => {
       </div>
       <img
         className="headerImg"
-        src="https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-scenery-free-photo.jpg?w=2210&quality=70"
+        src="https://images.pexels.com/photos/1167355/pexels-photo-1167355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         alt=""
       />
     </div>
