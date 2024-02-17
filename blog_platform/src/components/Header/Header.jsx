@@ -5,8 +5,8 @@ const Header = () => {
   return (
     <div className="header">
       <div className="headerTitles">
-        <span className="headerTitleSm">React & Node</span>
-        <span className="headerTitleLg">React & Node</span>
+        <span className="headerTitleSm">Blogs</span>
+        <span className="headerTitleLg">Blogs & More</span>
       </div>
       <img
         className="headerImg"
